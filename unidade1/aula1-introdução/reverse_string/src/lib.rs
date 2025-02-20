@@ -13,9 +13,13 @@ mod tests {
     }
 }
 
-
+//Criando uma função pública 
 
 pub fn reverse(input: &str) -> String {
     
+
+//.chars(): Converte a string em um iterador de caracteres
+//.rev(): Reverte a ordem dos caracteres.
+//.collect(): Junta os caracteres novamente em uma String.
     input.chars().rev().collect()
 }
