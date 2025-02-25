@@ -1,0 +1,1 @@
+/workspaces/kaike.oliveira.3nb/unidade1/aula1-introdução/reverse_string/target/debug/reverse_string: /workspaces/kaike.oliveira.3nb/unidade1/aula1-introdução/reverse_string/src/lib.rs /workspaces/kaike.oliveira.3nb/unidade1/aula1-introdução/reverse_string/src/main.rs
