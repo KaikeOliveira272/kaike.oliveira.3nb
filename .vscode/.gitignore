@@ -1,0 +1,22 @@
+# Ignorar diretório de build
+target/
+
+# Ignorar arquivos de dependências geradas (exceto para binários)
+Cargo.lock
+
+# Arquivos temporários do Rust
+**/*.rs.bk
+
+# Ignorar arquivos de debugging e profiling
+*.dSYM/
+*.profdata
+*.profraw
+
+# Ignorar metadados do editor
+.idea/
+.vscode/
+*.iml
+
+# Arquivos temporários do sistema
+.DS_Store
+Thumbs.db
